@@ -15,6 +15,7 @@ Anaissa Franco - <http://www.anaisafranco.com>
 
 CONSTRUCTION
 --------------------------------------
+- [Video of construction of scuplture](http://vimeo.com/97912789)
 - Materials: Acrylic, plasma ball as a sensor, arduino, mp3 shield, speakers,
 - Size: 45x35x40 cm
 - weight:15 kilos
@@ -22,6 +23,6 @@ CONSTRUCTION
 SCULPTURE
 --------------------------------------
 ![Confusion](http://www.anaisafranco.com/images/projects/confusion/confusion_01.jpg "Confusion")
-![Video](http://vimeo.com/97912789 "Video")
+
 
 
