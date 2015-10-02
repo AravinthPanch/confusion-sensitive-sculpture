@@ -7,6 +7,8 @@ DESCRIPTION
 
 This artwork is prototyped at the event Creative Code Jam by Berlin OpenTechSchool and exhibited at MAC, Museum of Contemporary Art of Gaz Natural Fenosa in La Coruña, Spain.
 
+More details at <http://www.anaisafranco.com/confusion>
+
 AUTHOR
 --------------------------------------
 - Anaisa Franco <http://www.anaisafranco.com>
