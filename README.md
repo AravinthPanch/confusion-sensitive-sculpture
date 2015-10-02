@@ -7,11 +7,11 @@ DESCRIPTION
 
 This artwork is prototyped at the event Creative Code Jam by Berlin OpenTechSchool and exhibited at MAC, Museum of Contemporary Art of Gaz Natural Fenosa in La Coruña, Spain.
 
-ARTIST
+AUTHOR
 --------------------------------------
-Anaissa Franco - <http://www.anaisafranco.com>
-
-
+- Anaisa Franco <http://www.anaisafranco.com>
+- Aravinth Panchadcharam <http://aravinth.info>
+- Rodolfo Acosta Castro
 
 CONSTRUCTION
 --------------------------------------
@@ -22,7 +22,9 @@ CONSTRUCTION
 
 SCULPTURE
 --------------------------------------
-![Confusion](http://www.anaisafranco.com/images/projects/confusion/confusion_01.jpg "Confusion")
+![Confusion](http://static1.squarespace.com/static/54f1f533e4b013baf4017e1c/t/54f22b38e4b0acc2710d6999/1425156931866/anxiety_01.jpg "Confusion")
+
+![Confusion](http://static1.squarespace.com/static/54f1f533e4b013baf4017e1c/t/54f60e8ae4b022d09bfbb245/1425411770023/na+mostra13.jpg "Confusion")
 
 
 
